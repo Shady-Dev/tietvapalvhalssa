@@ -6,5 +6,5 @@
   * [Yritys ja palvelu](harjoitustyo/yritys.md)
   * [Asiakaspalvelupiste](harjoitustyo/asiakaspalvelupiste.md)
   * [Tietoturva](harjoitustyo/tietoturva.md)
-  * Palvelunhallinta
+  * [Palvelunhallinta](harjoitustyo/palvelunhallinta.md)
 

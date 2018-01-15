@@ -9,6 +9,8 @@ Tärkeä osa yrityksen palvelua ja yritystä.
 ### Yrityksessä
 - Sysadmin: hallitsee palvelun asennusta ja pyörittämistä. Toimihenkilöllä on käytännössä oikeudet koko järjestelmään, koska hän hallinnoi sen asennusta ja ylläpitoa.
 
+- Tietoturva-asiantuntija: Seuraa projektien ja yrityksen tietoturvallisuutta. Vastaa vuotojen raportoinneista ja sisäisestä tietoturvatestauksesta.
+
 - Järjestelmänhaltijoille tulee olla laajat oikeudet järjestelmään. Kuitenkaan ei pidä antaa kaikkia oikeuksia jokaiselle, vaan projektikohtaisesti.
 
 - Jokaisen projektin pääkehittäjälle oikeudet luoda järjestelmään uusi projekti ja yleisestä hallinnoida projektien sisältöä
