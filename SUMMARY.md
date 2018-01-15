@@ -2,7 +2,8 @@
 
 * [Title](README.md)
 * [Harjoitustyö](harjoitustyo.md)
-  * [Yritys](harjoitustyo/yritys.md)
+  * [Esittely](harjoitustyo/esittely.md)
+  * [Yritys ja palvelu](harjoitustyo/yritys.md)
   * [Asiakaspalvelupiste](harjoitustyo/asiakaspalvelupiste.md)
   * [Tietoturva](harjoitustyo/tietoturva.md)
   * Palvelunhallinta
