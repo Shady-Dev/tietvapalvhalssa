@@ -1,3 +1,9 @@
-# Table of content
+# Summary
 
-* [First Chapter](chapter1.md)
+* [Title](README.md)
+* [Harjoitustyö](harjoitustyo.md)
+  * [Yritys](harjoitustyo/yritys.md)
+  * [Asiakaspalvelupiste](harjoitustyo/asiakaspalvelupiste.md)
+  * [Tietoturva](harjoitustyo/tietoturva.md)
+  * Palvelunhallinta
+
