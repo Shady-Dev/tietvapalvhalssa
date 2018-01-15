@@ -1,8 +1,4 @@
-# Yritys ja palvelu
 
-Nimi: 
-Liikevaihto: 10 milj euroa
-Palvelun omistaja: 
 
 ### Palvelun Kuvaus
 
