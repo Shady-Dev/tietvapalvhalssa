@@ -1,5 +1,6 @@
 # Tietoturva
-Tärkeä osa yritystä.
+Tärkeä osa yrityksen palvelua ja yritystä.
+
 ## Tietoturvan alueet
 1. Pilvipalvelu
 2. Asiakasporjektit
@@ -14,8 +15,4 @@ Tärkeä osa yritystä.
 
 - Kehittäjä (koodaaja) tarvitsee vain oikeudet muokata tiettyjä tiedostoja ja luoda uusia.
 
-### Asiakkaalle
-Pitää miettiä erilaisten yrityksien käyttäjien hallinnointia, sekä oikeuksia muokata tiedostoja.
-Monta tasoa:
-Esim. jos yritys ostaa palvelua kokonaan kyseiseltä firmalta, eli meidän yritys rakentaa verkkokaupan itse, niin verkkokaupan omistajalla ei tarvitse olla oikeuksia päästä työkaluun.
-Esim 2. Jos verkkokaupan omistaja ostaa pelkästään työkalun käytön (toimii, kuten wordpress) pitää suunnitella käyttäjien tasoja, esim. kenellä on oikeus muokata pelkästään koodia, kenellä on oikeus luoda uusia alisivustoja, jne.
+Asiakkalla ei ole suoraa pääsyä työkaluun.
